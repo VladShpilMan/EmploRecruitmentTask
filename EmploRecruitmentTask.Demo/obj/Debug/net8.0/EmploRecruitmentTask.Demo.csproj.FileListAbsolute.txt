@@ -16,3 +16,4 @@ C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Demo\obj\D
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Demo\obj\Debug\net8.0\EmploRecruitmentTask.Demo.pdb
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Demo\obj\Debug\net8.0\EmploRecruitmentTask.Demo.genruntimeconfig.cache
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Demo\obj\Debug\net8.0\ref\EmploRecruitmentTask.Demo.dll
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Demo\obj\Debug\net8.0\EmploRecruitmentTask.Demo.sourcelink.json

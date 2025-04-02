@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F556DB9-0057-4B45-8485-CE7267E8069B}|EmploRecruitmentTask.NUnit\\EmploRecruitmentTask.NUnit.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.nunit\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F556DB9-0057-4B45-8485-CE7267E8069B}|EmploRecruitmentTask.NUnit\\EmploRecruitmentTask.NUnit.csproj|solutionrelative:emplorecruitmenttask.nunit\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44754F5-5C1E-4A68-A35C-B5A422602D97}|EmploRecruitmentTask.Demo\\EmploRecruitmentTask.Demo.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44754F5-5C1E-4A68-A35C-B5A422602D97}|EmploRecruitmentTask.Demo\\EmploRecruitmentTask.Demo.csproj|solutionrelative:emplorecruitmenttask.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\entitydbcontext\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\entitydbcontext\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\models\\vacationpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\models\\vacationpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\emplorecruitmenttask.employeevacation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\emplorecruitmenttask.employeevacation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\models\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\models\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.employeevacation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B4E7100-309B-40BB-8EC6-8B1DFE5C9C0F}|EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj|solutionrelative:emplorecruitmenttask.employeevacation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{703D3BB6-D1C5-4D71-BB75-0CA8BC368D5B}|EmploRecruitmentTask.Hierarchy\\EmploRecruitmentTask.Hierarchy.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.hierarchy\\services\\employeesstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{703D3BB6-D1C5-4D71-BB75-0CA8BC368D5B}|EmploRecruitmentTask.Hierarchy\\EmploRecruitmentTask.Hierarchy.csproj|solutionrelative:emplorecruitmenttask.hierarchy\\services\\employeesstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{703D3BB6-D1C5-4D71-BB75-0CA8BC368D5B}|EmploRecruitmentTask.Hierarchy\\EmploRecruitmentTask.Hierarchy.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.hierarchy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{703D3BB6-D1C5-4D71-BB75-0CA8BC368D5B}|EmploRecruitmentTask.Hierarchy\\EmploRecruitmentTask.Hierarchy.csproj|solutionrelative:emplorecruitmenttask.hierarchy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44754F5-5C1E-4A68-A35C-B5A422602D97}|EmploRecruitmentTask.Demo\\EmploRecruitmentTask.Demo.csproj|c:\\users\\wlady\\source\\repos\\emplorecruitmenttask\\emplorecruitmenttask.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44754F5-5C1E-4A68-A35C-B5A422602D97}|EmploRecruitmentTask.Demo\\EmploRecruitmentTask.Demo.csproj|solutionrelative:emplorecruitmenttask.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 389,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +70,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeesStructure.cs",
-              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
-              "RelativeDocumentMoniker": "EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
-              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
-              "RelativeToolTip": "EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "DocumentIndex": 2,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.NUnit\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.NUnit\\EmployeeServiceTests.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.NUnit\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.NUnit\\EmployeeServiceTests.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T10:48:04.744Z",
+              "WhenOpened": "2025-04-02T20:11:24.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
-              "RelativeToolTip": "EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T09:47:55.164Z",
+              "WhenOpened": "2025-04-02T17:16:27.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "VacationPackage.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\VacationPackage.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Models\\VacationPackage.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\VacationPackage.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Models\\VacationPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:12:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vacation.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Vacation.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Models\\Vacation.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Vacation.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Models\\Vacation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:12:46.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Team.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:12:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Models\\Employee.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:12:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\appsettings.json",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\appsettings.json",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\appsettings.json",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T17:11:39.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmploRecruitmentTask.EmployeeVacation",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\EmploRecruitmentTask.EmployeeVacation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T17:08:39.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Program.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\Program.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\Program.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:07:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Demo\\Program.cs",
               "RelativeDocumentMoniker": "EmploRecruitmentTask.Demo\\Program.cs",
@@ -65,6 +196,45 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:32:17.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\EntityDbContext\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.EmployeeVacation\\EntityDbContext\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.EmployeeVacation\\EntityDbContext\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.EmployeeVacation\\EntityDbContext\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:13:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesStructure.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.Hierarchy\\Services\\EmployeesStructure.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowE8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:48:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\wlady\\source\\repos\\EmploRecruitmentTask\\EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
+              "RelativeToolTip": "EmploRecruitmentTask.Hierarchy\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:47:55.164Z",
               "EditorCaption": ""
             }
           ]

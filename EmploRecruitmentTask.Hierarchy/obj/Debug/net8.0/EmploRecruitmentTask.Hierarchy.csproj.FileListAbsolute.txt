@@ -9,3 +9,4 @@ C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\refint\EmploRecruitmentTask.Hierarchy.dll
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.pdb
 C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\ref\EmploRecruitmentTask.Hierarchy.dll
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.sourcelink.json

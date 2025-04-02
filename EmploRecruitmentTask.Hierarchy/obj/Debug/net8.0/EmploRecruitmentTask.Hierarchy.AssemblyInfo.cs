@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmploRecruitmentTask.Hierarchy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06afa804f01afa4638af020ff61858d16c511932")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmploRecruitmentTask.Hierarchy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmploRecruitmentTask.Hierarchy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
