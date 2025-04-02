@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmploRecruitmentTask.Demo/1.0.0": {
+        "dependencies": {
+          "EmploRecruitmentTask.Hierarchy": "1.0.0"
+        },
+        "runtime": {
+          "EmploRecruitmentTask.Demo.dll": {}
+        }
+      },
+      "EmploRecruitmentTask.Hierarchy/1.0.0": {
+        "runtime": {
+          "EmploRecruitmentTask.Hierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmploRecruitmentTask.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmploRecruitmentTask.Hierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

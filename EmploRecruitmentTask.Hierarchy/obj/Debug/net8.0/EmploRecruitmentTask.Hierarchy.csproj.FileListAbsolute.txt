@@ -1,0 +1,11 @@
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\bin\Debug\net8.0\EmploRecruitmentTask.Hierarchy.deps.json
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\bin\Debug\net8.0\EmploRecruitmentTask.Hierarchy.dll
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\bin\Debug\net8.0\EmploRecruitmentTask.Hierarchy.pdb
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.AssemblyInfoInputs.cache
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.AssemblyInfo.cs
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.dll
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\refint\EmploRecruitmentTask.Hierarchy.dll
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\EmploRecruitmentTask.Hierarchy.pdb
+C:\Users\wlady\source\repos\EmploRecruitmentTask\EmploRecruitmentTask.Hierarchy\obj\Debug\net8.0\ref\EmploRecruitmentTask.Hierarchy.dll
